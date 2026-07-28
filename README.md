@@ -1,0 +1,2 @@
+# -Implementacion-Computacional-en-R-Para-el-Analisis-Descriptivo-y-Caracterizacion-de-Datos-Agrupados
+Implementación de fórmulas estadísticas incluyendo medidas de tendencia central, dispersión, momentos estadísticos, probabilidades y transformaciones de variables. Así mismo se programó en el software con scripts que permiten verificar la correcta aplicación de los conceptos teóricos, lo que permitió analizar datos de manera clara y estructurada.
