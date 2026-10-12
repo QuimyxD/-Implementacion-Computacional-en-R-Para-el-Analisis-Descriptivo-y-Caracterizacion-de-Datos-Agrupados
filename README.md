@@ -103,3 +103,10 @@ install.packages("ggplot2")
 
 ---
 
+## Autor y Créditos
+
+**Cecil Quimey Azuara Yáñez**
+
+- **Carrera:** Licenciatura en Ingeniería de Datos e Inteligencia Artificial (LIDIA).
+- **Institución:** Universidad de Guanajuato – División de Ingenierías (Campus Irapuato - Salamanca).
+- **Asignatura:** Estadística Analítica.
